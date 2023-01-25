@@ -36,4 +36,4 @@
     - Controle de acessos (Firewalls e ACL)
     - Transporte seguro de dados (IPsec e VPN) <br />
 
-Encontram-se presentes neste repositório os slides das aulas teóricas, os guiõe das aulas práticas e enunciados de exames práticos e teóricos.
+Encontram-se presentes neste repositório os slides das aulas teóricas, os guiões das aulas práticas e enunciados de exames práticos e teóricos.
